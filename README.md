@@ -216,64 +216,17 @@ plt.show()
     Data description:
 
 
+|       | payAmount    |
+|-------|-------------|
+| count | 23867.000000 |
+| mean  | 15.154479   |
+| std   | 15.309014   |
+| min   | 0.010000    |
+| 25%   | 8.900000    |
+| 70%   | 13.030000   |
+| 75%   | 18.725000   |
+| max   | 1000.000000 |
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>payAmount</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>count</th>
-      <td>23867.000000</td>
-    </tr>
-    <tr>
-      <th>mean</th>
-      <td>15.154479</td>
-    </tr>
-    <tr>
-      <th>std</th>
-      <td>15.309014</td>
-    </tr>
-    <tr>
-      <th>min</th>
-      <td>0.010000</td>
-    </tr>
-    <tr>
-      <th>25%</th>
-      <td>8.900000</td>
-    </tr>
-    <tr>
-      <th>70%</th>
-      <td>13.030000</td>
-    </tr>
-    <tr>
-      <th>75%</th>
-      <td>18.725000</td>
-    </tr>
-    <tr>
-      <th>max</th>
-      <td>1000.000000</td>
-    </tr>
-  </tbody>
-</table>
-</div>
 
 
 
@@ -286,65 +239,16 @@ plt.show()
 
     Data description After removing outliers:
 
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>payAmount</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>count</th>
-      <td>23548.000000</td>
-    </tr>
-    <tr>
-      <th>mean</th>
-      <td>14.206391</td>
-    </tr>
-    <tr>
-      <th>std</th>
-      <td>8.151394</td>
-    </tr>
-    <tr>
-      <th>min</th>
-      <td>0.010000</td>
-    </tr>
-    <tr>
-      <th>25%</th>
-      <td>8.800000</td>
-    </tr>
-    <tr>
-      <th>70%</th>
-      <td>13.000000</td>
-    </tr>
-    <tr>
-      <th>75%</th>
-      <td>18.300000</td>
-    </tr>
-    <tr>
-      <th>max</th>
-      <td>50.000000</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+|       | payAmount    |
+|-------|-------------|
+| count | 23548.000000 |
+| mean  | 14.206391   |
+| std   | 8.151394    |
+| min   | 0.010000    |
+| 25%   | 8.800000    |
+| 70%   | 13.000000   |
+| 75%   | 18.300000   |
+| max   | 50.000000   |
 
 
 <p align="center">
