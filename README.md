@@ -260,3 +260,12 @@ plt.show()
 </p>
 
     
+## Author
+
+👤 **Samira Parvaniani**
+
+- Github: [@SamiraParva](https://github.com/SamiraParva)
+
+## Version History
+* 0.1
+    * Initial Release
